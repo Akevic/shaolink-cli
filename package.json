@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
+  "keywords": ["url", "shortener", "cli", "shaolink"],
+  "author": "Andrija Kevic <akevic@gmail.com> (https://sloth.codes/)",
   "license": "ISC",
   "bin": {
     "slk": "./app.js"
