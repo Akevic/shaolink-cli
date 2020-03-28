@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/Akevic/shaolink-cli",
   "keywords": [
     "url",
     "shortener",
