@@ -1,9 +1,14 @@
 {
   "name": "shaolink-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "keywords": ["url", "shortener", "cli", "shaolink"],
+  "keywords": [
+    "url",
+    "shortener",
+    "cli",
+    "shaolink"
+  ],
   "author": "Andrija Kevic <akevic@gmail.com> (https://sloth.codes/)",
   "license": "ISC",
   "bin": {
