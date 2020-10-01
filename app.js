@@ -15,3 +15,10 @@ fetch('https://rel.ink/api/links/', {
 })
   .then(res => res.json())
   .then(json => console.log(`https://rel.ink/${json.hashid}`))
+
+/*
+const shaolink = require('shaolink')
+
+const shortLink = shaolink('https://sloth.code')
+
+*/
